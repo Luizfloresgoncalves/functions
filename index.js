@@ -1,4 +1,4 @@
-// exercicio 1
+// exercicio interpretação de codigo 1
 //a. vai aparecer 10 e 50 pois ele fez a variave multiplicado por 5
 //b. ele vai ignorar pois não executa no console
 
@@ -32,6 +32,36 @@
     console.log(resultado)*/
     
 //exercicio 2 codigo de escrita
-//a. 
+/*a. 
+function calcularSoma(a, b) {
+    const soma = a + b
+	return soma
+}
 
-   
+ const resultado = calcularSoma(5, 8)
+console.log(resultado)*/
+
+/*b. 
+function minhaFuncao1(a, b) {
+    const pergunta = a > b
+	return pergunta
+}
+
+ const resposta = minhaFuncao1(9, 13)
+console.log(resposta)*/
+
+/*c. 
+function minhaFuncao1(a) {
+    const pergunta = a % 2 === 0
+	return pergunta
+}
+
+ const resposta = minhaFuncao1(12)
+console.log(resposta)*/
+
+/*d.
+function minhaFuncao1(a) {
+    console.log(a.length)
+}
+
+   minhaFuncao1("Ola, como vai vc?")*/
