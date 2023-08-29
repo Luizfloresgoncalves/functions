@@ -61,7 +61,50 @@ console.log(resposta)*/
 
 /*d.
 function minhaFuncao1(a) {
+    const fraseMaiuscula = a.toUpperCase()
+    console.log(fraseMaiuscula)
     console.log(a.length)
+    
 }
 
-   minhaFuncao1("Ola, como vai vc?")*/
+   minhaFuncao1("Olá, como vai vc?")*/
+
+/*exercicio 3    
+
+function funcaoSoma(a, b) {
+    const soma = Number(a) + Number(b)
+    return soma
+}
+function funcaoSubtracao(a, b) {
+    const subtracao = a - b
+    return subtracao
+}
+function funcaoMultiplicacao(a, b) {
+    const multiplicacao = a * b
+    return multiplicacao
+}
+function funcaoDivisao(a, b) {
+    const Divisao = a / b
+    return Divisao
+}
+let numeroA = prompt("Diga um numero:")
+let numeroB = prompt("Diga outro numero:")
+const soma = funcaoSoma (numeroA, numeroB)
+const subtracao = funcaoSubtracao(numeroA,numeroB)
+const multiplicacao = funcaoMultiplicacao(numeroA, numeroB)
+const divisao = funcaoDivisao(numeroA, numeroB)
+
+console.log(`Numeros inseridos: ${numeroA} e ${numeroB}`)
+console.log(`Soma: ${soma}`)
+console.log(`Diferenca: ${subtracao}`)
+console.log(`Multiplicacao: ${multiplicacao}`)
+console.log(`Divisao: ${divisao}`)*/
+
+
+
+
+
+
+
+
+
